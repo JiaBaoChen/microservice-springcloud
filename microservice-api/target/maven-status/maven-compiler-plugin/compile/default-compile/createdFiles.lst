@@ -1,0 +1,3 @@
+com\jobs\springcloud\service\SaleOrderServiceFallbackFactory.class
+com\jobs\springcloud\service\SaleOrderServiceFallbackFactory$1.class
+com\jobs\springcloud\entity\SaleOrder.class
